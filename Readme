@@ -1,0 +1,29 @@
+# 💰 Finance Dashboard
+
+A modern and responsive Finance Dashboard web application to track income, expenses, and financial insights.
+
+---
+
+## 🚀 Features
+
+- 📊 View total balance, income, and expenses
+- 📈 Interactive charts (Line Chart & Pie Chart)
+- 🔍 Filter transactions by type and category
+- 🌙 Dark / Light theme toggle
+- 👤 Role-based UI (Viewer / Admin)
+- 📋 Transaction listing with insights
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 CSS (Custom Styling)
+- 📊 Recharts (for charts)
+- 🔗 React Router DOM
+- 💾 Local Storage (for user data & theme)
+
+---
+
+## 📂 Project Structure
