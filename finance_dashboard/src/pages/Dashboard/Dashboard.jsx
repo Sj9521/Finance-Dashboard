@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Dashboard.css'
-import initialTransactions from '../../data/transactions'
+import initialTransactions from '../../Data/transactions' 
 import { useNavigate } from 'react-router-dom'
 import {
   LineChart,
